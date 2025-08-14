@@ -1,6 +1,6 @@
 # 最新StrongVPN评测：StrongVPN怎么样？StrongVPN在中国还能用吗？StrongVPN连不上怎么办？（注意：支持支付宝付款）
 
-<p align="center">最近更新于：2025年7月6日</p>
+<p align="center">最近更新于：2025年8月14日</p>
 
 ![最新StrongVPN评测：StrongVPN怎么样？StrongVPN在中国还能用吗？StrongVPN连不上怎么办？](https://raw.githubusercontent.com/chinavpns/strongvpn/refs/heads/main/image/StrongVPN%20Banner.png)
 
