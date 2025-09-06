@@ -281,7 +281,7 @@ StrongVPN为Windows、MacOS、Android、iOS等设备提供了专用APP客户端�
 
 如果你使用的是安卓设备，那么只需打开Google Play，搜索"StrongVPN"，然后选择正确的客户端下载安装即可。
 
-如果你没有Google Play账号，可以通过"https://wallvpn.com/go/nf-video/银河录像局</a>"购买一个，操作简单方便。
+如果你没有Google Play账号，可以通过"<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>"购买一个，操作简单方便。
 
 **三、如何下载StrongVPN iOS客户端？**
 
